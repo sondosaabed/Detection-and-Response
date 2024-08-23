@@ -23,3 +23,6 @@ You will learn about the various processes and procedures in the stages of incid
 
 ### Module 4: Network traffic and logs using IDS and SIEM tools
 You will explore logs and their role in Intrusion Detection Systems (IDS) and Security Information Event Management (SIEM) systems. You'll learn how these systems detect attacks. You’ll also be introduced to some IDS and SIEM products. In addition, you’ll write basic IDS rules to provide alerts for malicious network traffic.
+
+## Course Certificate 
+![image](https://github.com/user-attachments/assets/28368cbb-a2ab-40c1-8ef6-977813e81e29)
